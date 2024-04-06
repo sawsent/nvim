@@ -1,3 +1,3 @@
 ### My config files and other stuff for nvim.
 
-#### thanks no thanks to ThePrimeAgen for getting me into nvim
+#### thanks no thanks to ThePrimeAgen and CodeforAll_ for getting me into nvim...
