@@ -19,7 +19,7 @@ local github_dark = {
 	end,
 }
 
-local fil = "octagon" -- classic | octagon | pro | machine | ristretto | spectrum
+local fil = "machine" -- classic | octagon | pro | machine | ristretto | spectrum
 local monokai = {
 	"loctvl842/monokai-pro.nvim",
 	lazy = false,
@@ -43,4 +43,4 @@ local darkrose = {
 	end,
 }
 
-return catppuccin
+return monokai
