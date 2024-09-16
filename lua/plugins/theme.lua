@@ -43,4 +43,4 @@ local darkrose = {
 	end,
 }
 
-return monokai
+return github_dark
