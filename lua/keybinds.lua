@@ -17,3 +17,6 @@ vim.keymap.set("n", "<C-n>", ":Neotree filesystem reveal left<CR>", {})
 
 -- none-ls
 vim.keymap.set("n", "<leader>gf", vim.lsp.buf.format, {})
+
+-- transparent toggle
+vim.keymap.set("n", "<leader>tt", ":TransparentToggle<CR>", {})
