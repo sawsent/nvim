@@ -13,5 +13,6 @@ vim.opt.rtp:prepend(lazypath)
 
 require('keybinds')
 require('lazy').setup('plugins')
+require('configure-lsp')
 
 

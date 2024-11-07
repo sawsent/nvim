@@ -12,6 +12,7 @@ return {
                 ensure_installed = {
                     'lua_ls',
                     'quick_lint_js',
+                    'pyright',
                 }
             })
         end
@@ -22,6 +23,8 @@ return {
             local lspconfig = require('lspconfig')
             lspconfig.lua_ls.setup({})
             lspconfig.quick_lint_js.setup({})
+            lspconfig.pyright.setup({})
+            lspconfig.pylint.setup({})
         end
     }
 }
