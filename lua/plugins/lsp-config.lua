@@ -24,6 +24,7 @@ return {
             lspconfig.lua_ls.setup({})
             lspconfig.quick_lint_js.setup({})
             lspconfig.pyright.setup({})
+            lspconfig.semgrep.setup({})
         end
     }
 }
