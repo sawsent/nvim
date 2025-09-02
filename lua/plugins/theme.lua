@@ -77,4 +77,4 @@ local darkrose = {
     end,
 }
 
-return github_dark
+return catppuccin
